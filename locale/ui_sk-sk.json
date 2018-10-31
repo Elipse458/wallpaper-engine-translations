@@ -252,6 +252,7 @@
 
 	"ui_editor_camera_add_path" : "Pridať cestu",
 	"ui_editor_camera_select_path" : "Prosím vyberte cestu naľavo.",
+	"ui_editor_camera_add_renderable" : "Pridať objekt",
 	"ui_editor_gizmo_translate" : "Premiestniť",
 	"ui_editor_gizmo_rotate" : "Otočiť",
 	"ui_editor_gizmo_scale" : "Veľkosť",
@@ -1347,5 +1348,9 @@
 	"ui_editor_workshop_options_upload_as" : "Nahrať ako",
 	"ui_editor_workshop_options_upload_as_new_item" : "Vytváranie nového itemu",
 	"ui_editor_workshop_options_upload_as_update" : "Aktualizovať existujúci item {{name}}",
-	"ui_editor_workshop_options_upload_as_pending" : "Čakanie na odpoveď Steamu..."
+	"ui_editor_workshop_options_upload_as_pending" : "Čakanie na odpoveď Steamu...",
+
+	"ui_browse_no_service_body_use_backup" : "<br/><br/>Wallpaper Engine sa pokúsi zobraziť núdzovú zálohu pokiaľ firma <b>STEAM (VALVE)</b> vyriešila svoje problémy.",
+	
+	"ui_browse_steam_offline_notice" : "<b>STEAM</b> servery sú <b>OFFLINE</b>. Prehliadate núdzovú zálohu z  {{date}}. Prosím počkajte pár hodín kým firma <b>STEAM (VALVE)</b> znova opraví <b>STEAM</b> servery."
 }
